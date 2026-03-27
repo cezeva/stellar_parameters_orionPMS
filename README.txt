@@ -5,20 +5,20 @@
 ### Columns
 | Columna   | Descripción                                                                 | Unidades |
 |-----------|-----------------------------------------------------------------------------|----------|
-| APOGEE_ID | Identificador único de la estrella en APOGEE                                | —        |
-| 2MASS     | Identificador en el catálogo 2MASS                                          | —        |
+| APOGEE_ID | Identificador de APOGEE                                                     | —        |
+| 2MASS     | Identificador del catálogo 2MASS                                            | —        |
 | RA        | Ascensión recta                                                             | deg      |
 | DEC       | Declinación                                                                 | deg      |
-| m_R       | Metalicidad (parámetros enrojecidos, Tonali)                                | dex      |
-| em_R      | Error de metalicidad (parámetros enrojecidos, Tonali)                       | dex      |
-| a_R       | Abundancia de elementos alfa (parámetros enrojecidos, Tonali)               | dex      |
-| ea_R      | Error de abundancia alfa (parámetros enrojecidos, Tonali)                   | dex      |
-| g_R       | Gravedad superficial log(g) (parámetros enrojecidos, Tonali)                | dex      |
-| eg_R      | Error de log(g) (parámetros enrojecidos, Tonali)                            | dex      |
-| t_R       | Temperatura efectiva (parámetros enrojecidos, Tonali)                       | K        |
-| et_R      | Error de temperatura efectiva (parámetros enrojecidos, Tonali)              | K        |
-| v_R       | Velocidad rotacional (parámetros enrojecidos, Tonali)                       | km/s     |
-| ev_R      | Error de velocidad rotacional (parámetros enrojecidos, Tonali)              | km/s     |
+| m_R       | Metalicidad (parámetros enrojecidos)                                        | dex      |
+| em_R      | Error de metalicidad (parámetros enrojecidos)                               | dex      |
+| a_R       | Abundancia de elementos alfa (parámetros enrojecidos)                       | dex      |
+| ea_R      | Error de abundancia alfa (parámetros enrojecidos)                           | dex      |
+| g_R       | Gravedad superficial log(g) (parámetros enrojecidos)                        | dex      |
+| eg_R      | Error de log(g) (parámetros enrojecidos)                                    | dex      |
+| t_R       | Temperatura efectiva (parámetros enrojecidos)                               | K        |
+| et_R      | Error de temperatura efectiva (parámetros enrojecidos)                      | K        |
+| v_R       | Velocidad rotacional (parámetros enrojecidos)                               | km/s     |
+| ev_R      | Error de velocidad rotacional (parámetros enrojecidos)                      | km/s     |
 | m_DR1     | Metalicidad corregida por extinción MHEEF                                   | dex      |
 | em_DR1    | Error de metalicidad corregida (extinción MHEEF)                            | dex      |
 | a_DR1     | Abundancia alfa corregida por extinción MHEEF                               | dex      |
